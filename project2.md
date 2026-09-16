@@ -36,4 +36,4 @@ Those are separate outcomes with separate evidence.
 
 Without reopening the lesson, reconstruct the five fixture statuses, explain
 which two representations each status column compares, and state why
-`beta.txt` survives both commits. Then rerun the checker to test the model.
+`beta.txt` survives both commits. Then rerun the checker to test the model.z
